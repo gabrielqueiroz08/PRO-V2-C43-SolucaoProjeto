@@ -1,5 +1,5 @@
 const accessCode1 = "VARIÁVEL";
-const accessCode2 = "FUNÇÃP";
+const accessCode2 = "FUNÇÃO";
 const accessCode3 = "BANCO DE DADOS";
 
 function clues() {
@@ -12,7 +12,7 @@ function clues() {
 
     fill("white")
     textSize(15)
-    text("Ç U N I F O Ã", 700,150)
+    text("Ç U N F O Ã", 700,150)
     fill("lightblue")
     text("Dica: Performa uma tarefa em particular!", 700,170)
 
