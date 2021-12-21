@@ -1,25 +1,25 @@
-const accessCode1 = "VARIABLE";
-const accessCode2 = "FUNCTION";
-const accessCode3 = "DATABASE";
+const accessCode1 = "VARIÁVEL";
+const accessCode2 = "FUNÇÃP";
+const accessCode3 = "BANCO DE DADOS";
 
 function clues() {
     
     fill("white")
     textSize(15)
-    text("R E V B A I L A", 100,50)
+    text("R E V A I L V Á", 100,50)
     fill("lightblue")
-    text("Hint: Always changing, not constant !!", 100,70)
+    text("Dica: Sempre mudando, não constante!", 100,70)
 
     fill("white")
     textSize(15)
-    text("C U T N I F O N", 700,150)
+    text("Ç U N I F O Ã", 700,150)
     fill("lightblue")
-    text("Hint: Performs a particular task !!", 700,170)
+    text("Dica: Performa uma tarefa em particular!", 700,170)
 
     fill("white")
     textSize(15)
-    text("A T E D A S B A", 100,250)
+    text("B N D A O C A S D O E D", 100,250)
     fill("lightblue")
-    text("Hint: Stores all information !!", 100,270)
+    text("Dica: Armazena todas as informações!", 100,270)
 
 }
